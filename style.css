@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url(images/cover/cover-3.jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.intro {
+    padding-top: 160px;
+}
