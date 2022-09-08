@@ -4,7 +4,7 @@
     height: 80vh;
     background-size: cover;
     background-position: center;
-    background-color: rgba(0, 0, 0, 0.671);
+    background-color: #1D1D1D;
 
 }
 
@@ -17,5 +17,23 @@
 }
 
 footer {
-    height: 250px;
+    padding-top: 10px;
+    height: 350px;
+}
+
+.fa-brands {
+    font-size: 25px;
+
+}
+
+.ancor {
+    margin-right: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 25px;
+}
+
+.social-link {
+    padding: 20px;
 }
