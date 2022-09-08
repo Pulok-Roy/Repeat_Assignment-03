@@ -10,10 +10,10 @@
     content: "";
     display: block;
     position: absolute;
-    top: 4px;
-    left: 4px;
+    top: 45px;
+    left: 45px;
     bottom: 0;
-    right: 4px;
+    right: 45px;
     background: #000;
     opacity: 0.7;
 }
@@ -22,13 +22,6 @@
     top: 190px;
 }
 
-.intro {
-    padding-top: 160px;
-}
-
-.quetion {
-    height: 980px;
-}
 
 footer {
     padding-top: 10px;
