@@ -4,9 +4,18 @@
     height: 80vh;
     background-size: cover;
     background-position: center;
+    background-color: rgba(0, 0, 0, 0.671);
 
 }
 
 .intro {
     padding-top: 160px;
+}
+
+.quetion {
+    height: 980px;
+}
+
+footer {
+    height: 250px;
 }
